@@ -18,6 +18,7 @@ namespace DelegateHomeWork
 
             button.Exec(2);
             button.Exec("Name");
+            button.Exec(2.2);
         }
     }
 }
